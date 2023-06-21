@@ -1,0 +1,202 @@
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  section {
+    width: 100vw;
+    margin-left: 0vw;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  h1 {
+    font-size: 1.39vw;
+  }
+  p {
+    font-family: "Diagramatika";
+    font-size: 4.831vw;
+  }
+  li {
+    font-size: 2.899vw;
+    line-height: 1.998vw;
+  }
+  ul {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -4.047vw;
+    margin-left: 11.563vw;
+    width: 85.575vw;
+  }
+
+  h2 {
+    font-size: 3.7vw;
+  }
+  .mainback {
+    background-image: url("../images/backgroundcover.png");
+    background-size: auto 100vh;
+    height: 100vh;
+  }
+  .textcenter {
+    display: flex;
+    justify-content: space-around;
+  }
+  .logoimg {
+    width: 8.094vw;
+    margin-top: 3.563vw;
+    margin-left: 2.188vw;
+  }
+  .navbar {
+    width: 100vw;
+    height: 14.976vw;
+    /* width: 14.922vw;
+    height: 100vh;
+    z-index: 1;
+    background-color: #feff8b;
+    position: fixed; */
+  }
+  .backgroundcover {
+    margin: 50vw;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  .backgroundcover1 {
+    width: 100vw;
+  }
+  .bcimg {
+    width: 100vw;
+    margin-top: -1vw;
+  }
+  .bcimgone {
+    width: 100vw;
+    display: none;
+  }
+  .stg {
+    display: block;
+    margin-top: -47.25vw;
+  }
+  .stg1 {
+    margin-top: 0;
+    display: block;
+  }
+  .stgimg {
+    margin-top: -3vw;
+    width: 42.271vw;
+  }
+
+  .sizeimg {
+    width: 100vw;
+  }
+  .brand {
+    width: 85.078vw;
+    margin-left: 14.922vw;
+  }
+  .brandnead {
+    width: 100vw;
+  }
+  .textwhite {
+    width: 63.64vw;
+    margin-bottom: 10vw;
+  }
+  .textblue {
+    width: 63.64vw;
+    margin-bottom: 5vw;
+  }
+  .backblue {
+    background-color: #3c65f6;
+  }
+  .imgadapt {
+    width: 32.271vw;
+    margin: 2vw;
+  }
+  .textcolour {
+    margin-bottom: 5vw;
+
+    justify-content: space-around;
+  }
+  .textcolour1 {
+    margin-bottom: 5vw;
+    width: 63.64vw;
+    display: flex;
+    justify-content: space-around;
+  }
+  .swatches {
+    width: 63.64vw;
+    display: flex;
+    justify-content: space-around;
+  }
+  .acimg {
+    width: 85.078vw;
+    margin-top: 2vw;
+  }
+  .textac {
+    margin-bottom: 5vw;
+    display: flex;
+    justify-content: space-around;
+  }
+  .imgcenter {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5vw;
+  }
+  .imgmargin {
+    margin-bottom: 5vw;
+  }
+  .textleft {
+    text-align: left;
+    width: 63.64vw;
+    margin-bottom: 10vw;
+  }
+  .textrow {
+    align-items: center;
+  }
+  .nomargin {
+    margin-bottom: 0;
+  }
+  .textflex {
+    display: flex;
+  }
+  .textblock {
+    display: block;
+    text-align: center;
+  }
+  .blueblock,
+  .greyblock {
+    width: 22.578vw;
+  }
+  .blueratio {
+    width: 22.578vw;
+    height: 17.813vw;
+  }
+  .greyratio {
+    width: 22.578vw;
+    height: 17.813vw;
+  }
+  .blackratio {
+    width: 12.109vw;
+    height: 17.813vw;
+  }
+  .yellowratio {
+    width: 6.016vw;
+    height: 17.813vw;
+  }
+  .ht1 {
+    height: 15.459vw;
+  }
+  .ht2 {
+    margin-top: 5vw;
+    height: 9.246vw;
+  }
+  .ht3 {
+    height: 6.522vw;
+  }
+  .ht3add{
+    height: 6.522vw;
+  }
+  .sizeimgsmall {
+    width: 14.453vw;
+  }
+  .bcimgsmall {
+    width: 54.844vw;
+  }
+  .typomob{
+    padding-top: 6vw;
+  }
+}
